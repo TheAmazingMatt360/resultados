@@ -24,6 +24,7 @@ body{
     text-align: center;
     color: var(--white);
     margin-bottom: 2.5rem;
+    border-radius: 0 0 32rem 32rem;
 }
 
 .resultado h1
@@ -58,4 +59,18 @@ body{
 {
     color: var(--light-blue);
     
+}
+
+.resultado h2
+{
+    font-size: 2.4rem;
+    margin-bottom: 1rem;
+}
+
+.resultado p
+{
+    max-width: 26rem;
+    margin-inline: auto;
+    color: var(--light-blue);
+
 }
